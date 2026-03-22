@@ -1,0 +1,149 @@
+21:24:55,431  INFO TestBase:37 - Configue file loaded successfully
+21:24:55,434  INFO TestBase:42 - OR file loaded successfully
+21:24:57,472  INFO TestBase:50 - Chrome Browser Launched
+21:24:58,096 DEBUG TestBase:12 - Bank manager Login sucessfully
+21:25:01,675  INFO TestBase:79 - Browser closed and test execution finished
+14:35:47,848  INFO TestBase:38 - Configue file loaded successfully
+14:35:47,852  INFO TestBase:43 - OR file loaded successfully
+14:35:53,801  INFO TestBase:51 - Chrome Browser Launched
+14:35:54,579 DEBUG TestBase:13 - Bank manager Login sucessfully
+14:35:56,177  INFO TestBase:89 - Browser closed and test execution finished
+14:40:28,772  INFO TestBase:38 - Configue file loaded successfully
+14:40:28,777  INFO TestBase:43 - OR file loaded successfully
+14:40:30,796  INFO TestBase:51 - Chrome Browser Launched
+14:40:31,670 DEBUG TestBase:13 - Bank manager Login sucessfully
+14:40:32,733  INFO TestBase:89 - Browser closed and test execution finished
+18:10:25,690  INFO TestBase:38 - Configue file loaded successfully
+18:10:25,694  INFO TestBase:43 - OR file loaded successfully
+18:10:28,312  INFO TestBase:51 - Chrome Browser Launched
+18:10:28,912 DEBUG TestBase:13 - Bank manager Login sucessfully
+18:10:29,488  INFO TestBase:89 - Browser closed and test execution finished
+14:13:06,793 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:13:06,803 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+14:13:07,247  INFO TestBase:41 - Configue file loaded successfully
+14:13:07,248  INFO TestBase:46 - OR file loaded successfully
+14:13:09,936  INFO TestBase:54 - Chrome Browser Launched
+14:13:10,526 DEBUG TestBase:13 - Bank manager Login sucessfully
+14:13:11,323  INFO TestBase:92 - Browser closed and test execution finished
+14:14:09,598 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:14:09,606 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+14:14:10,031  INFO TestBase:41 - Configue file loaded successfully
+14:14:10,032  INFO TestBase:46 - OR file loaded successfully
+14:14:11,675  INFO TestBase:54 - Chrome Browser Launched
+14:14:12,197 DEBUG TestBase:13 - Bank manager Login sucessfully
+14:14:13,009  INFO TestBase:92 - Browser closed and test execution finished
+14:15:54,129 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:15:54,136 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+14:15:54,594  INFO TestBase:41 - Configue file loaded successfully
+14:15:54,595  INFO TestBase:46 - OR file loaded successfully
+14:15:56,413  INFO TestBase:54 - Chrome Browser Launched
+14:15:56,897 DEBUG TestBase:13 - Bank manager Login sucessfully
+14:16:07,565  INFO TestBase:92 - Browser closed and test execution finished
+14:20:06,820 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:20:06,827 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+14:20:07,262  INFO TestBase:41 - Configue file loaded successfully
+14:20:07,263  INFO TestBase:46 - OR file loaded successfully
+14:20:08,860  INFO TestBase:54 - Chrome Browser Launched
+14:20:09,332 DEBUG TestBase:13 - Bank manager Login sucessfully
+14:20:10,017  INFO TestBase:92 - Browser closed and test execution finished
+14:43:04,610 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:43:04,618 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+14:43:05,054  INFO TestBase:41 - Configue file loaded successfully
+14:43:05,055  INFO TestBase:46 - OR file loaded successfully
+14:43:09,971  INFO TestBase:54 - Chrome Browser Launched
+14:43:10,508 DEBUG TestBase:13 - Bank manager Login sucessfully
+14:43:11,345  INFO TestBase:92 - Browser closed and test execution finished
+14:43:30,138 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:43:30,146 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+14:43:30,576  INFO TestBase:41 - Configue file loaded successfully
+14:43:30,578  INFO TestBase:46 - OR file loaded successfully
+14:43:32,211  INFO TestBase:54 - Chrome Browser Launched
+14:43:32,710 DEBUG TestBase:13 - Bank manager Login sucessfully
+14:43:33,602  INFO TestBase:92 - Browser closed and test execution finished
+14:44:22,875 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:44:22,882 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+14:44:23,300  INFO TestBase:41 - Configue file loaded successfully
+14:44:23,301  INFO TestBase:46 - OR file loaded successfully
+14:44:24,889  INFO TestBase:54 - Chrome Browser Launched
+14:44:25,368 DEBUG TestBase:13 - Bank manager Login sucessfully
+14:44:26,108  INFO TestBase:92 - Browser closed and test execution finished
+14:46:31,916 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:46:31,923 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+14:46:32,349  INFO TestBase:41 - Configue file loaded successfully
+14:46:32,350  INFO TestBase:46 - OR file loaded successfully
+14:46:33,889  INFO TestBase:54 - Chrome Browser Launched
+14:46:34,408 DEBUG TestBase:13 - Bank manager Login sucessfully
+14:46:35,170  INFO TestBase:92 - Browser closed and test execution finished
+15:17:59,240 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:17:59,248 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+15:17:59,692  INFO TestBase:41 - Configue file loaded successfully
+15:17:59,692  INFO TestBase:46 - OR file loaded successfully
+15:18:02,070  INFO TestBase:54 - Chrome Browser Launched
+15:18:02,757 DEBUG TestBase:13 - Bank manager Login sucessfully
+15:18:04,236  INFO TestBase:92 - Browser closed and test execution finished
+15:18:48,048 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:18:48,055 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+15:18:48,492  INFO TestBase:41 - Configue file loaded successfully
+15:18:48,493  INFO TestBase:46 - OR file loaded successfully
+15:18:50,102  INFO TestBase:54 - Chrome Browser Launched
+15:18:50,625 DEBUG TestBase:13 - Bank manager Login sucessfully
+15:18:56,730  INFO TestBase:92 - Browser closed and test execution finished
+16:36:49,747 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:36:49,755 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+16:36:50,165  INFO TestBase:41 - Configue file loaded successfully
+16:36:50,166  INFO TestBase:46 - OR file loaded successfully
+16:36:52,532  INFO TestBase:54 - Chrome Browser Launched
+16:36:53,069 DEBUG TestBase:13 - Bank manager Login sucessfully
+16:37:11,328  INFO TestBase:92 - Browser closed and test execution finished
+17:18:13,886 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:18:13,894 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+17:18:14,337  INFO TestBase:43 - Configue file loaded successfully
+17:18:14,338  INFO TestBase:48 - OR file loaded successfully
+17:18:16,078  INFO TestBase:56 - Chrome Browser Launched
+17:18:17,239 DEBUG TestBase:13 - Bank manager Login sucessfully
+17:18:17,784  INFO TestBase:95 - Browser closed and test execution finished
+17:19:03,769 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:19:03,776 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+17:19:04,204  INFO TestBase:43 - Configue file loaded successfully
+17:19:04,205  INFO TestBase:48 - OR file loaded successfully
+17:19:05,788  INFO TestBase:56 - Chrome Browser Launched
+17:19:06,312 DEBUG TestBase:13 - Bank manager Login sucessfully
+17:19:06,824  INFO TestBase:95 - Browser closed and test execution finished
+17:21:27,957  INFO TestBase:41 - Configue file loaded successfully
+17:21:27,960  INFO TestBase:46 - OR file loaded successfully
+17:21:29,760  INFO TestBase:54 - Chrome Browser Launched
+17:21:30,227 DEBUG TestBase:13 - Bank manager Login sucessfully
+17:21:30,674  INFO TestBase:92 - Browser closed and test execution finished
+17:27:24,446  INFO TestBase:41 - Configue file loaded successfully
+17:27:24,450  INFO TestBase:46 - OR file loaded successfully
+17:27:26,494  INFO TestBase:54 - Chrome Browser Launched
+17:27:27,200 DEBUG TestBase:13 - Bank manager Login sucessfully
+17:27:28,151  INFO TestBase:92 - Browser closed and test execution finished
+17:30:46,361 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:30:46,370 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+17:30:46,943  INFO TestBase:41 - Configue file loaded successfully
+17:30:46,945  INFO TestBase:46 - OR file loaded successfully
+17:30:49,001  INFO TestBase:54 - Chrome Browser Launched
+17:30:49,600 DEBUG TestBase:13 - Bank manager Login sucessfully
+17:30:56,728  INFO TestBase:92 - Browser closed and test execution finished
+17:36:06,388 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:36:06,399 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+17:36:06,975  INFO TestBase:41 - Configue file loaded successfully
+17:36:06,977  INFO TestBase:46 - OR file loaded successfully
+17:36:09,121  INFO TestBase:54 - Chrome Browser Launched
+17:36:09,692 DEBUG TestBase:13 - Bank manager Login sucessfully
+17:36:16,288  INFO TestBase:92 - Browser closed and test execution finished
+17:43:20,050 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:43:20,065 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+17:43:20,950  INFO TestBase:41 - Configue file loaded successfully
+17:43:20,952  INFO TestBase:46 - OR file loaded successfully
+17:43:24,255  INFO TestBase:54 - Chrome Browser Launched
+17:43:33,798 DEBUG TestBase:13 - Bank manager Login sucessfully
+17:43:38,187  INFO TestBase:92 - Browser closed and test execution finished
+17:52:46,281 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:52:46,293 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+17:52:46,864  INFO TestBase:43 - Configue file loaded successfully
+17:52:46,865  INFO TestBase:48 - OR file loaded successfully
+17:52:48,744  INFO TestBase:56 - Chrome Browser Launched
+17:52:49,361 DEBUG TestBase:13 - Bank manager Login sucessfully
+17:52:56,278  INFO TestBase:95 - Browser closed and test execution finished
