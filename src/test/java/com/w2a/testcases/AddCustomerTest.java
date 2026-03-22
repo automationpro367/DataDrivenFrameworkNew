@@ -22,6 +22,7 @@ public class AddCustomerTest extends TestBase {
 		driver.findElement(By.xpath(OR.getProperty("firstname"))).sendKeys(data.get("first name")); 
 		driver.findElement(By.xpath(OR.getProperty("lastname"))).sendKeys(data.get("last name"));
 		driver.findElement(By.xpath(OR.getProperty("postcode"))).sendKeys(data.get("post code"));
+		driver.findElement(By.xpath(OR.getProperty("postcode"))).sendKeys(data.get("post code"));
 
 		// Step 3: Click Add Button
 		driver.findElement(By.xpath(OR.getProperty("addbutton"))).click();
